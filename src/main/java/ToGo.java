@@ -1,0 +1,3 @@
+interface ToGo {
+    void toGo();
+}
